@@ -1,0 +1,10 @@
+streamlit
+torch
+transformers
+pandas
+openai
+transformers
+torch
+sentencepiece
+llama-cpp-python
+xlsxwriter
